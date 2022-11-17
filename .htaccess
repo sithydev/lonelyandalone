@@ -1,1 +1,1 @@
-ErrorDocument 404 errors/404notfound_error.html
+ErrorDocument 404 errors/404notfound.html
